@@ -70,6 +70,7 @@ contract Voting{
         }
         return votingEnd - block.timestamp;
     }
+    // now its completed
 
 
 }
